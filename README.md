@@ -1,2 +1,2 @@
-# The-matrix-powershell-terminal-and-future-Leviathan-coating-modular-workspace
+# The-matrix-powershell-terminal-and-future-Leviathan-coding-modular-workspace
 A custom coding terminal you can code and in submit push code to everywhere in all coding languages Mac OS windows python Linux and more with visual verbose cues for failures and running codes machine learning environments to double test codes as well as spell checkers and code checkers and word wrappers and custom layout to your liking
